@@ -5,11 +5,11 @@ Improving norovirus burden estimates using mathematical models
 
 ------------------------------------------------------------------------
 
-This repository includes source code for our analysis of three different approaches to attributing gastroenteritis to norovirus. We describe a novel method using mathematical models to calculate norovirus-attributed gastroenteritis incidence.
+This repository includes source code for our analysis of three different approaches to attributing gastroenteritis to norovirus, the detection as etiology (DE) approach, the odds ratio (OR) approach, and our own model-based (MB) approach. We describe a novel method using mathematical models to calculate norovirus-attributed gastroenteritis incidence.
 
 The models described are run in R.
 
-![Transmission network of XDR TB in KwaZulu-Natal, South Africa](https://github.com/kbratnelson/tb-ergms/blob/master/MissingNetworkData/Nelson_Fig3.1ab.png)
+![Comparison of three attribution methods](https://github.com/kbratnelson/noro-attributable-fraction/blob/main/fig2.png)
 
 ------------------------------------------------------------------------
 
